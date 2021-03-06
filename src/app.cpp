@@ -16,7 +16,6 @@ void print_time()
 
 int main(int argc, char **argv)
 {
-    std::cout << "Hello, World!" << std::endl;
     print_time();	
     return 0;
 }
